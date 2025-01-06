@@ -68,7 +68,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 - **Author:** Bramhananda K L  
 - **Email:** bramhanandakl2002@gmail.com 
-- **GitHub:** [KLBramhananda]([https://github.com/your-username](https://github.com/KLBramhananda/QR-Code-Generator---Scanner))
+- **GitHub:** [KLBramhananda], [https://github.com/KLBramhananda]
 
 ---
 ### Show Your Support
